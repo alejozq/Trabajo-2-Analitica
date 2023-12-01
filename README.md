@@ -13,7 +13,8 @@ Juan José Florez Ospina
 Isabella Saez Calderón 
 
 ------------------------------------------------------------------------
-Importante: El archivo datosacci.csv es el archivo original a trabajar, se le cambió el nombre debido a que el nombre original del archivo es ilegible para python
+Importante: La base de datos se puede encontrar en este link https://mega.nz/file/iVRSmIqR#vUuLgTe-bTau62AeDEi87nxbkKjwE8Dou-VyKdIHWO4
+esto se debe a que es demasiado pesada para github
 
 Reporte:
 
