@@ -25,6 +25,6 @@ https://github.com/alejozq/Trabajo-2-Analitica
 
 Pagina:
 
-https://gvtpswm7gjszfvllchsxth.streamlit.app/
+https://prediccionaccidentalidad.streamlit.app
 
 Dennos un aviso si alguno de los links deja de funcionar
